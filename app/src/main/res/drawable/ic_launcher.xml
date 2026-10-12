@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Kırmızı daire -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M24,24m-22,0a22,22 0,1 1,44 0a22,22 0,1 1,-44 0" />
+    <group
+        android:translateX="12"
+        android:translateY="12">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M15.67,4H14V2h-4v2H8.33C7.6,4 7,4.6 7,5.33v15.34C7,21.4 7.6,22 8.33,22h7.34c0.73,0 1.33,-0.6 1.33,-1.33V5.33C17,4.6 16.4,4 15.67,4z" />
+        <path
+            android:fillColor="#D32F2F"
+            android:pathData="M9,6h6v12H9z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M9,16h6v2H9z" />
+    </group>
+</vector>
